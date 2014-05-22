@@ -3,7 +3,7 @@ require 'formula'
 class Recoll < Formula
   homepage 'http://www.recoll.org'
   url 'http://www.lesbonscomptes.com/recoll/recoll-1.19.13.tar.gz'
-#  sha1 'f4259c21faff9f30882d0bf1e8f952c19ed9936b'
+  sha1 '9e6f9e65c1fd5473d247c773a7a56d462f1b40b2'
 
   depends_on 'xapian'
   depends_on 'qt'
